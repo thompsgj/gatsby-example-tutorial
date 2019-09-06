@@ -1,6 +1,6 @@
 import React from "react"
 import Tours from "../components/Tours/Tours"
-import Layout from "../components/layout"
+import Layout from "../components/Layout"
 import { graphql } from "gatsby"
 
 //In order to access a page query, need to search data
